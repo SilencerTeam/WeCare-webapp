@@ -1,9 +1,11 @@
 # WeCare-webapp
  A web app in conjunction with desktop app which aims for betterment in health of the users.  
 ## *1. Application link :zipper_mouth_face:*
-- https://wecare-web.netlify.app/
+- Webpage link - https://wecare-web.netlify.app/
+- Demonstration Link - 
 ## *2. Description :thinking:*
-  - 1. Home Page 
+  - 1. Home Page<br/> 
+  
   The above link shows the main website of WeCare. The website shows all our services and principles and you can register here as well as download our application from here.
 
   - 2. For exercise model
