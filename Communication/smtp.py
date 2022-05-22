@@ -21,9 +21,11 @@ from twilio.rest import Client
 
 
 data = pd.read_csv("file1.csv")
+#SMTP server
 server = smtplib.SMTP_SSL("smtp.gmail.com", 465)
 server.login("silencerteam969@gmail.com", "aarr1234?")
 
+#TWILIO server
 account_sid = os.environ.get('TWILIO_ACCOUNT_SID')
 auth_token = os.environ.get('TWILIO_AUTH_TOKEN')
 # instantiating the Client
