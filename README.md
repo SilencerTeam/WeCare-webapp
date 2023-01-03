@@ -50,7 +50,7 @@ For the both the models of diabetes we used Random Forest Classifier which gave 
  ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
  ![Logo](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
  ## *5. Future Improvements :raised_eyebrow:*
-Features like virtual meet with doctors (online) and location of availability of blood donors and blood banks are to be added.<br/>
+Features like virtual meet with doctors (online) and location of availability of blood donors and blood banks will be added.<br/>
  ## *6. Contributers :nerd_face:*
   - Ayush Roy<br/>
   - Ritwick Halder<br/>
